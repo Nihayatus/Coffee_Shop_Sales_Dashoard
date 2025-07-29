@@ -1,9 +1,15 @@
 # Coffee and Bread Sales Dashboard
-Dashboard ini menganalisis penjualan produk kopi dan roti selama Januari–Juni 2023 dengan total 145.406 baris data. Visualisasi dibuat menggunakan Microsoft Excel untuk memantau tren harian, waktu pembelian, dan performa produk.
+Dashboard ini menganalisis penjualan produk kopi dan roti selama Januari–Juni 2023 dengan total 145.406 baris data. Visualisasi dibuat menggunakan **Microsoft Excel** untuk memantau tren harian, waktu pembelian, dan performa produk.
+
+---
+![Dashboard Preview](Netflix_Dashboard.png)
+
+## 🔗 Live Demo
+[**View Dashboard**](https://public.tableau.com/views/Netflix_17137145475610/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-### 📊 **Insight yang Didapat**
+### 📊 **INSIGHT DARI DASHBOARD**
 
 1. **Total Revenue & Penjualan**
 
